@@ -23,7 +23,7 @@ Currently learning the ancient arts of:
 
 ## Collaboration ☠️
 
-I'm always on the lookout for fellow buccaneers to embark on coding adventures. If ye be lookin' to collaborate on a project, send a smoke signal to me via [email@example.com](mailto:email@example.com) or send a raven to my [Twitter](https://twitter.com/IronPirateDev)!
+I'm always on the lookout for fellow buccaneers to embark on coding adventures. If ye be lookin' to collaborate on a project, send a smoke signal to me via [email@example.com](mailto:IronPiratedev@proton.me) or send a raven to my [Twitter](https://twitter.com/IronPirateDev)!
 
 ## Connect with Me ☠️
 
