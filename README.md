@@ -47,6 +47,7 @@ Ahoy, me hearties! This be the sacred tome where I'll be chroniclin' me grand ad
   Setting sail to the land of CSS, our adventurer sought to bring style and flair to the digital world. With a palette of colors and an arsenal of styles, they transformed plain HTML into vibrant, eye-catching creations. From elegant layouts to responsive designs, CSS was the wind in their sails, carrying them to stylish shores.
 
 ### 5) The Grand Finale: Class 12 🎓
-   As the days grew shorter and the challenges grew greater, our sailor faced the ultimate test: Class 12. With Python, HTML, and CSS as their loyal crew, they navigated through the treacherous waters of exams and projects. Through sleepless nights and moments of triumph, they emerged victorious, ready to set forth on even greater coding adventures.
+   As the days grew shorter and the challenges grew greater, our sailor faced the ultimate test: Class 12. With Python, HTML, and CSS as their loyal crew, they navigated through the treacherous waters of exams and projects. Through sleepless nights and moments of triumph, they...................
+### To Be Continued.... 
 
 # *Yo ho, yo ho, a pirate's life for me...* 🏴‍☠️
